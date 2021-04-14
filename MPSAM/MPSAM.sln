@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPSAM", "MPSAM\MPSAM.csproj", "{140AB4B9-B503-461F-BDAD-5885F414BFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemPurtabil", "..\..\..\..\source\repos\SistemPurtabil\SistemPurtabil\SistemPurtabil.csproj", "{9905E7E0-27F3-4556-9F64-665FF4A83819}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{140AB4B9-B503-461F-BDAD-5885F414BFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{140AB4B9-B503-461F-BDAD-5885F414BFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{140AB4B9-B503-461F-BDAD-5885F414BFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9905E7E0-27F3-4556-9F64-665FF4A83819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9905E7E0-27F3-4556-9F64-665FF4A83819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9905E7E0-27F3-4556-9F64-665FF4A83819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9905E7E0-27F3-4556-9F64-665FF4A83819}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
